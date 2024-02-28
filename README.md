@@ -13,7 +13,7 @@ Open your terminal and use the git clone command to clone this repository to you
 
 Navigate to the project directory using the cd command:
 
-     cd timewave-challenge
+     cd testt
 
 Once inside the directory, install all the required dependencies for your Next.js project by running:
 
