@@ -7,13 +7,13 @@ Steps:
 
 Open your terminal and use the git clone command to clone this repository to your local machine.
 
-    git clone <repository-url>
+    git clone https://github.com/abdullahalam123/testt.git
 
 ## Install Dependencies:
 
 Navigate to the project directory using the cd command:
 
-     cd <project-name>
+     cd timewave-challenge
 
 Once inside the directory, install all the required dependencies for your Next.js project by running:
 
